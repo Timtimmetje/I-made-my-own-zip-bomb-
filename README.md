@@ -1,1 +1,1 @@
-# My own zip bomb Ver 0.1
+# My own zip bomb :) 
